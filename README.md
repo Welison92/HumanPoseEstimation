@@ -8,7 +8,7 @@ Este projeto tem como objetivo desenvolver um modelo de previsão para identific
 - Identificação de padrões de movimento.
 
 ## Tecnologias Utilizadas
-A maioria das versões das tecnologias empregadas no projeto correspondeu às versões padrão disponíveis no Google Colab, com exceção do `sklearn`. As seguintes tecnologias foram utilizadas:
+A maioria das versões das tecnologias empregadas no projeto correspondeu às versões padrão disponíveis no Google Colab, com exceção do `sklearn`. Algumas das tecnologias utilizadas foram:
 - Manipulação de arquivos e diretórios com `os` e `glob`;
 - Processamento de imagens com `OpenCV` e `PIL`;
 - Leitura e escrita de dados em arquivos CSV com `csv` e análise de dados com `Pandas`;
