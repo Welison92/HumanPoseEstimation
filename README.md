@@ -12,7 +12,7 @@ Este projeto tem como objetivo desenvolver um modelo de previsão para identific
 - Processamento de imagens com `OpenCV` e `PIL`;
 - Leitura e escrita de dados em arquivos CSV com `csv` e análise de dados com `Pandas`;
 - Aprendizado de máquina e redes neurais com `PyTorch` e `Ultralytics`;
-- Pré-processamento de dados com `sklearn`;
+- Pré-processamento de dados com `sklearn`, a versão utilizada no projeto foi a 1.2.2;
 - Avaliação de modelos de classificação com métricas como `classification_report` e `confusion_matrix`;
 - Visualização de dados com `Matplotlib` e `Seaborn`;
 - Manipulação de vídeos com `MoviePy`;
