@@ -1,5 +1,7 @@
 # Identificação de Padrões na Estimativa da Pose Humana
 
+![Capa do Projeto](src/images/previsao.png)
+
 ## Descrição
 Este projeto tem como objetivo desenvolver um modelo de previsão para identificar padrões na estimativa da pose humana. O trabalho é parte do meu Trabalho de Conclusão de Curso (TCC) e visa contribuir para a área de visão computacional e análise de movimento humano. O projeto foi desenvolvido no [Google Colab](https://colab.research.google.com/) e utiliza a linguagem Python na versão **3.10.12**.
 
