@@ -26,7 +26,7 @@ A maioria das versões das tecnologias empregadas no projeto correspondeu às ve
 ## Base de Dados
 Para compor o conjunto de dados deste projeto, foram utilizadas as seguintes bases de dados:
 - [COCO](https://cocodataset.org//);
-- [Kaggle Human Dataset](https://www.kaggle.com/datasets/fareselmenshawii/human-dataset/data/), [Kaggle Images 2000](https://www.kaggle.com/datasets/ahmadahmadzada/images2000)
+- [Kaggle Human Dataset](https://www.kaggle.com/datasets/fareselmenshawii/human-dataset/data/), [Kaggle Images 2000](https://www.kaggle.com/datasets/ahmadahmadzada/images2000);
 - [MCFD](https://www.iro.umontreal.ca/~labimage/Dataset/);
 - [MPII](http://human-pose.mpi-inf.mpg.de/);
 - [UCF101](https://www.crcv.ucf.edu/data/UCF101.php);
